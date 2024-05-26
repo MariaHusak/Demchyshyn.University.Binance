@@ -141,3 +141,8 @@ Week 12:
 - Optimize database queries and server-side processes
 - Implement caching strategies for improved speed
 - Conduct final round of performance testing and optimization
+
+  ## Anti-Lab 2
+- Mariia Husak
+- https://github.com/MariaHusak/Husak.University.Google-Calendar
+- https://github.com/MariaHusak/Demchyshyn.University.Binance/pull/1
